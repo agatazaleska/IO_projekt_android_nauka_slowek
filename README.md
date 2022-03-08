@@ -1,1 +1,2 @@
-# IO_projekt_android_nauka_slowek
+# Aplikacja Androidowa do nauki słówek informatycznych :)
+
